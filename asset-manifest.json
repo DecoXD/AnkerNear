@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ankernear/static/css/main.282fda65.css",
+    "main.js": "/ankernear/static/js/main.a8d0c1fd.js",
+    "static/media/BannerPromo.png": "/ankernear/static/media/BannerPromo.8bbc32bebc5c8c7368cb.png",
+    "static/media/Banner2.png": "/ankernear/static/media/Banner2.42feb2e7385adf037b7d.png",
+    "static/media/Einsteingamer.png": "/ankernear/static/media/Einsteingamer.5251bb5f6ee84f2dcba6.png",
+    "static/media/Logo.png": "/ankernear/static/media/Logo.af68e42e3ab4722cc4cb.png",
+    "index.html": "/ankernear/index.html",
+    "main.282fda65.css.map": "/ankernear/static/css/main.282fda65.css.map",
+    "main.a8d0c1fd.js.map": "/ankernear/static/js/main.a8d0c1fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.282fda65.css",
+    "static/js/main.a8d0c1fd.js"
+  ]
+}
